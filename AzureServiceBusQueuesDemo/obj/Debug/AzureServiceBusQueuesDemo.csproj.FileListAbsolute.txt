@@ -1,0 +1,7 @@
+D:\Projects\AzureServiceBusQueuesDemo\AzureServiceBusQueuesDemo\bin\Debug\AzureServiceBusQueuesDemo.exe.config
+D:\Projects\AzureServiceBusQueuesDemo\AzureServiceBusQueuesDemo\bin\Debug\AzureServiceBusQueuesDemo.exe
+D:\Projects\AzureServiceBusQueuesDemo\AzureServiceBusQueuesDemo\bin\Debug\AzureServiceBusQueuesDemo.pdb
+D:\Projects\AzureServiceBusQueuesDemo\AzureServiceBusQueuesDemo\bin\Debug\Microsoft.ServiceBus.dll
+D:\Projects\AzureServiceBusQueuesDemo\AzureServiceBusQueuesDemo\bin\Debug\Microsoft.ServiceBus.xml
+D:\Projects\AzureServiceBusQueuesDemo\AzureServiceBusQueuesDemo\obj\Debug\AzureServiceBusQueuesDemo.exe
+D:\Projects\AzureServiceBusQueuesDemo\AzureServiceBusQueuesDemo\obj\Debug\AzureServiceBusQueuesDemo.pdb
